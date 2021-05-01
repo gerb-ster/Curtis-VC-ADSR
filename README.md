@@ -1,3 +1,3 @@
-# Project Name
+# Curtis VC ADSR
 
-some description about this project goes here.
+A voltage controlled ADSR enveloppe generator based on the CEM 3310
