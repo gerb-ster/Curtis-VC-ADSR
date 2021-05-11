@@ -2,7 +2,7 @@
 
 A voltage controlled ADSR enveloppe generator based on the CEM 3310
 
-## Status
+## Status: Finished
 
 - done: first schematic & board design
 - done: breadboard and test
